@@ -1,1 +1,1 @@
-# stanCode_projects_SC201
+# stanCode_projects_SC201_machine_learning
